@@ -1,7 +1,7 @@
-![logo](C:\Users\USER\Desktop\210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![logo]("C:\Users\USER\Desktop\210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif")
 <h1 align="center">Hi 👋, I'm Priyanshu Negi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHMVaCBaRhiU/v0/-999x-999.gif">
+<img align="right" alt="coding" width="300" src"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHMVaCBaRhiU/v0/-999x-999.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-752&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-752" /> </p>
 
