@@ -1,4 +1,4 @@
-![logo]("C:\Users\USER\Desktop\210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif")
+![logo](https://github.com/Priyanshu-752/Priyanshu-752/blob/main/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Priyanshu Negi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="300" src"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHMVaCBaRhiU/v0/-999x-999.gif">
