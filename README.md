@@ -15,13 +15,12 @@
 
 - 📫 How to reach me **priyanshunegi752@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/USER/Downloads/Resume2%20(1)%20(1).pdf](file:///C:/Users/USER/Downloads/Resume2%20(1)%20(1).pdf)
 
 - ⚡ Fun fact **Developers daily turn on their gf, the name of their gf is laptop.😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@priyanshu_1105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@priyanshu_1105" height="30" width="40" /></a>
+<href="https://twitter.com/@priyanshu_1105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@priyanshu_1105" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priyanshu negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu negi" height="30" width="40" /></a>
 <a href="https://instagram.com/_priyansh_u123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_priyansh_u123" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshu_negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu_negi" height="30" width="40" /></a>
