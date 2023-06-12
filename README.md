@@ -1,15 +1,13 @@
 ![logo](https://github.com/Priyanshu-752/Priyanshu-752/blob/main/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Priyanshu Negi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="300" src"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHMVaCBaRhiU/v0/-999x-999.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-752&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-752" /> </p>
 
-- 🔭 I’m currently working on **Chal Mitra**
+- 🔭 I’m currently working on **College's Software Cell**
 
 - 🌱 I’m currently learning **Nodejs, Mongo db and Typescript**
 
-- 🤝 I’m looking for help with **I Think Logistic to apply in Wordpress**
+- 🤝 I’m looking for help with **Use of I Think Logistic to apply in Wordpress**
 
 - 💬 Ask me about **react , html and css**
 
