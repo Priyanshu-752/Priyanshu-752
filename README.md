@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-752&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-752" /> </p>
 
-- 🔭 I’m currently working on **College's Software Cell**
+- 🔭 I’m currently working on **Graphic Era Hill University,Haldwani Software Cell**
 
 - 🌱 I’m currently learning **Nodejs, Mongo db and Typescript**
 
