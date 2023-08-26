@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Graphic Era Hill University,Haldwani Software Cell**
 
-- 🌱 I’m currently learning **Nodejs, Mongo db and Typescript**
+- 🌱 I’m currently learning **Typescript and Three js**
 
-- 🤝 I’m looking for help with **Use of I Think Logistic to apply in Wordpress**
+- 🤝 I’m looking for help with **Ar and Vr Tech stacks**
 
-- 💬 Ask me about **react , html and css**
+- 💬 Ask me about **fronted(react,html, css, js) and web xr**
 
 - 📫 How to reach me **priyanshunegi752@gmail.com**
 
