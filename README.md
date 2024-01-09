@@ -3,13 +3,13 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-752&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-752" /> </p>
 
-- 🔭 I’m currently working on **Graphic Era Hill University,Haldwani Software Cell**
+- 🔭 I’m currently working as **Trainee in Software Cell Department of Graphic Era Hill University, Haldwani **
 
-- 🌱 I’m currently learning **Typescript and Three js**
+- 🌱 I’m currently learning **Typescript and Node Js**
 
 - 🤝 I’m looking for help with **Ar and Vr Tech stacks**
 
-- 💬 Ask me about **fronted(react,html, css, js) and web xr**
+- 💬 Ask me about **react and react native**
 
 - 📫 How to reach me **priyanshunegi752@gmail.com**
 
